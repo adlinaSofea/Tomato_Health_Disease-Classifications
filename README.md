@@ -14,7 +14,7 @@
 <ul>
 <li>This project contains 13,899 images, retrieved from the Kaggle website. The dataset includes 8 classes of tomato leaf conditions used for training the model. It is split into three categories: Training, Validation, and Testing.</li>
 
-<li>The images are split using a ratio of 70% for Training, 15% for Validation, and 15% for Testing.</li>
+<li>The images are split using a ratio of 70% for Training, 15% for Validation, and 15% for Testing. Here is file dataset: https://drive.google.com/drive/folders/1OFVTpm4U71XAozJxD_DRDR1wRecoddWx?usp=drive_link</li>
 
 <li>The dataset is not equally distributed among the classes. For example, Tomato_Yellow_Leaf_Curly_Virus has over 3,209 images, while the other classes have around 1,000 to 2,000 images. This imbalance may cause the model to achieve high accuracy during initial training, which can be misleading.</li>
 
