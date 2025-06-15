@@ -45,7 +45,7 @@ MobileNetV3Small achieved a mAP of 99.11, which, while slightly lower, is still 
 This metric highlights that ResNet50 provides the best balance between performance and generalization, making it the most suitable model for tomato disease classification in this project.</p>
 </ul>
 <ul>
-    <li>Here are the files for the project:</li>
+    <li>Here are the files for the dataset project:</li>
     <p>Google Drive: - https://drive.google.com/drive/folders/1OFVTpm4U71XAozJxD_DRDR1wRecoddWx?usp=drive_link</p>
     <p>Kaggle: - https://www.kaggle.com/datasets/emmarex/plantdisease </p>
 </ul>
